@@ -1,0 +1,123 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|c:\\users\\usuario\\desktop\\andrey\\programacion\\progra 2-c#\\examen2\\formularios\\formularios\\encuesta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|solutionrelative:formularios\\encuesta.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|c:\\users\\usuario\\desktop\\andrey\\programacion\\progra 2-c#\\examen2\\formularios\\formularios\\encuesta.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|solutionrelative:formularios\\encuesta.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|c:\\users\\usuario\\desktop\\andrey\\programacion\\progra 2-c#\\examen2\\formularios\\formularios\\encuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|solutionrelative:formularios\\encuestascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|c:\\users\\usuario\\desktop\\andrey\\programacion\\progra 2-c#\\examen2\\formularios\\formularios\\encuestadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|solutionrelative:formularios\\encuestadata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|c:\\users\\usuario\\desktop\\andrey\\programacion\\progra 2-c#\\examen2\\formularios\\formularios\\css\\cssmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|solutionrelative:formularios\\css\\cssmenu.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|c:\\users\\usuario\\desktop\\andrey\\programacion\\progra 2-c#\\examen2\\formularios\\formularios\\encuesta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{4F19235B-1C4A-4858-9A43-F2CAC5C566AB}|Formularios\\Formularios.csproj|solutionrelative:formularios\\encuesta.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Encuesta.aspx",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\Encuesta.aspx",
+              "RelativeDocumentMoniker": "Formularios\\Encuesta.aspx",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\Encuesta.aspx",
+              "RelativeToolTip": "Formularios\\Encuesta.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-23T04:41:51.828Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EncuestaData.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\EncuestaData.cs",
+              "RelativeDocumentMoniker": "Formularios\\EncuestaData.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\EncuestaData.cs",
+              "RelativeToolTip": "Formularios\\EncuestaData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T01:49:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "cssmenu.css",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\CSS\\cssmenu.css",
+              "RelativeDocumentMoniker": "Formularios\\CSS\\cssmenu.css",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\CSS\\cssmenu.css",
+              "RelativeToolTip": "Formularios\\CSS\\cssmenu.css",
+              "ViewState": "AQIAABAAAAAAAAAAAAAswD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-25T15:49:35.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncuestasController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\EncuestasController.cs",
+              "RelativeDocumentMoniker": "Formularios\\EncuestasController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\EncuestasController.cs",
+              "RelativeToolTip": "Formularios\\EncuestasController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAqwBYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T15:44:50.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Encuesta.Master",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\Encuesta.Master",
+              "RelativeDocumentMoniker": "Formularios\\Encuesta.Master",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\Encuesta.Master",
+              "RelativeToolTip": "Formularios\\Encuesta.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-24T03:19:07.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Encuesta.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\Encuesta.aspx.cs",
+              "RelativeDocumentMoniker": "Formularios\\Encuesta.aspx.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Desktop\\Andrey\\PROGRAMACION\\Progra 2-c#\\Examen2\\Formularios\\Formularios\\Encuesta.aspx.cs",
+              "RelativeToolTip": "Formularios\\Encuesta.aspx.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwG4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T01:48:43.924Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

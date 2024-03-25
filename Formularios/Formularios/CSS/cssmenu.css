@@ -1,0 +1,62 @@
+﻿/* Estilo para el fondo */
+body {
+    background-image: url('https://img.freepik.com/fotos-premium/fondo-aplicaciones-moviles-herramientas-mercado-valores-velas-3d_18199-200.jpg?size=626&ext=jpg'); /* URL de la imagen de fondo */
+    background-size: cover; /* Ajustar la imagen al tamaño de la ventana */
+    background-repeat: no-repeat; /* Evitar la repetición de la imagen */
+    background-position: center center; /* Centrar la imagen */
+    color: #6b6b6b; /* Color de texto en tono gris */
+    font-family: 'Times New Roman', Times, serif; /* Fuente Times New Roman */
+}
+
+/* Estilo para el contenedor principal */
+.container {
+    width: 50%; /* Ancho del contenedor */
+    margin: auto; /* Centrar el contenedor */
+}
+
+/* Estilo para las casillas de texto */
+input[type="text"], input[type="date"] {
+    width: 100%; /* Ancho del 100% del contenedor */
+    background-color: #f2f2f2; /* Casillas en tono de gris */
+    border: none;
+    border-radius: 4px;
+    padding: 10px;
+    margin-bottom: 10px;
+    box-sizing: border-box; /* Incluir el relleno y el borde en el ancho */
+}
+
+.email-input {
+    width: 100%; /* Ancho deseado para el campo de correo electrónico */
+}
+
+/* Estilo para el texto de las preguntas */
+label {
+    font-weight: bold; /* Texto en negrita */
+}
+
+/* Estilo para el botón */
+.btn {
+    background-color: #ffa500; /* Color naranja */
+    border: none;
+    color: #ffffff; /* Texto en color blanco */
+    padding: 10px 20px;
+    border-radius: 4px;
+    cursor: pointer;
+}
+
+    /* Estilo para el botón al pasar el cursor */
+    .btn:hover {
+        background-color: #ff7f00; /* Color naranja más oscuro */
+    }
+
+/* Estilo para los radio buttons */
+.radio label {
+    display: inline-block;
+    margin-right: 10px; /* Espacio entre los botones */
+}
+
+/* Estilo para el grupo de radio buttons */
+.radio {
+    display: flex;
+    flex-direction: row; /* Mostrar los radio buttons en línea */
+}
